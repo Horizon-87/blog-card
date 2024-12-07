@@ -11,8 +11,8 @@ body{
   flex-grow: 3;
   flex-shrink: 3;
   }
-.container{
-  height: 50%;
+.container{/*
+  height: 50%;*/
   width: 15%;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
